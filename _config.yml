@@ -1,0 +1,6 @@
+title: Zohair Hashmi  # Site title
+# logo: /assets/img/logo.png  # Site logo
+# description: >- # Site description
+#   Zohair Hashmi is a software engineer and a tech enthusiast. He is passionate about building software that solves real-world problems. He is currently working as a Software Engineer at a startup in Pakistan.
+show_downloads: true  # Show download section
+theme: jekyll-theme-minimal  # Site theme
