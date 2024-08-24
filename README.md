@@ -12,10 +12,9 @@ B.S. Electrical Engineering	| _May 2019_
 
 ## Work Experience
 **Quantitative Analytics Summer Associate @ JP Morgan Chase & Co. (_June 2023 - August 2023_)**
-- Mitigated risk of bias in Machine Learning model via Fair Lending Analysis, using advanced feature engineering and model explainability techniques in the Model Risk team.
-- Developed credit approval model with XGBoost classifiers on Python, ensuring equal credit opportunity for all protected classes, reducing discriminatory outcomes by 20%.
-- Achieved 20-fold acceleration in model training time through SHAP approximation, optimizing resource allocation and review processes.
-- Executed top-down approach to communicate technical details to model risk management, suggesting improved feature engineering for credit-approval models.
+- Applied statistical methodologies under the Model Risk team to identify and mitigate biases in financial models.
+- Partnered with model reviewers to enhance predictive models, optimizing risk management strategies.
+- Leveraged game theory and classification models in Python for model explainability and feature extraction, improving predictive accuracy.
 
 **Data Analyst - Graduate Assistant @ Corporate MBA Office UIC (_October 2022 - December 2022_)**
 - Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.
