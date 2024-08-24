@@ -30,9 +30,9 @@ B.S. Electrical Engineering	| _May 2019_
 
 **Data Analyst @ Afinti (_February 2020 - December 2021_)**
 - Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.
-- Elevated operational performance through the implementation of Grafana dashboards.
-- Implemented hierarchical ML models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.
+- Implemented hierarchical models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.
 - Developed statistical models leveraging the STAN framework to construct agent and caller profiles, intelligently pairing agents with callers, resulting in a maximum success rate.
+- Elevated operational performance through the implementation of Grafana dashboards.
 - Developed production support workflow processes for Afiniti’s product, Afinti Airo.
 
 ## Projects
