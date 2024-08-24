@@ -131,17 +131,14 @@
 
 ---
 
-#### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+#### Predictive Trading with Transformer Models: An AI-Powered Solution [GitHub](https://github.com/zohairhashmi/blockhouse-transformers)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Designed a Transformer-based model for automated trading, achieving 86% prediction accuracy and optimizing investment portfolio decisions.
+- Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
+- Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+#### RAG-based LLM for Medical Dialogue Generation – Biomedical NLP [GitHub](https://github.com/advaitpai/Medical-Dialog-Generation)
 
-#### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
+- Created a healthcare chatbot on GCP that provides contextually relevant responses to medical queries using NLP, Retrieval-Augmented Generation, and GPT-3 on PyTorch.
+- Enhanced response accuracy by 45% by quantifying RAG's effectiveness using pre-trained BERT embedded tokens.
+- Minimized inherent hallucinations to a 2% response rate through fine-tuning and prompt engineering techniques.
