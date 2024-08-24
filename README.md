@@ -89,7 +89,7 @@
     <br>
   </ul>
 </details>
-
+<br>
 <details>
   <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong> | Oct 2022 - Dec 2022</summary>
   <ul>
@@ -100,7 +100,7 @@
     <br>
   </ul>
 </details>
-
+<br>
 <details>
   <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em> | Jan 2022 - Aug 2022</summary>
   <ul>
@@ -112,7 +112,7 @@
     <br>
   </ul>
 </details>
-
+<br>
 <details>
   <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong> <em>(AI pairing solution in contact-center industry)</em> | Feb 2020 - Dec 2021</summary>
   <ul>
@@ -141,4 +141,10 @@
 - Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
 - Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
 
+#### Algorithmic Fairness & Uncertainty Analysis [GitHub]
+
+- Developed techniques to quantify uncertainty and enhance fairness in ML models, addressing biases in datasets.
+- Analyzed aleatoric and epistemic uncertainties using Monte Carlo Markov Chains (MCMC) with PyMC and TensorFlow.
+- Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.**
+- Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
 
