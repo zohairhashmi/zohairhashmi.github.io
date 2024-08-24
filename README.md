@@ -71,8 +71,7 @@
     <li>Parallel Processing</li>
   </ul>
 </details>
-
-
+<br> 
 **National University of Science & Technology, *Islamabad, Pakistan***  
 **B.E. Electrical Engineering** _May 2019_  
 <br>
