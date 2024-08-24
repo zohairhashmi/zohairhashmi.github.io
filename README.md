@@ -18,23 +18,23 @@ B.S. Electrical Engineering	| _May 2019_
 - Executed top-down approach to communicate technical details to model risk management, suggesting improved feature engineering for credit-approval models.
 
 **Data Analyst - Graduate Assistant @ Corporate MBA Office UIC (_October 2022 - December 2022_)**
-• Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.
-• Automated synchronization of data using Spark , distributing data processing on large streaming datasets.
-• Extracted and refined raw datasets from SQL database into optimized versions for improved comprehension and actionable reporting.
-• Documented architecture, workflows, and dependencies of ETL process.
+- Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.
+- Automated synchronization of data using Spark , distributing data processing on large streaming datasets.
+- Extracted and refined raw datasets from SQL database into optimized versions for improved comprehension and actionable reporting.
+- Documented architecture, workflows, and dependencies of ETL process.
 
 **Data Scientist @ Jazz (_January 2022 - August 2022_)**
-• Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.
-• Automated ad-hoc reporting using SQL, Python, and Apache Spark, reducing analysis time and supporting multiple business functions.
-• Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.
-• Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.
+- Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.
+- Automated ad-hoc reporting using SQL, Python, and Apache Spark, reducing analysis time and supporting multiple business functions.
+- Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.
+- Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.
 
 **Data Analyst @ Afinti (_February 2020 - December 2021_)**
-• Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.
-• Elevated operational performance through the implementation of Grafana dashboards.
-• Implemented hierarchical ML models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.
-• Developed statistical models leveraging the STAN framework to construct agent and caller profiles, intelligently pairing agents with callers, resulting in a maximum success rate.
-• Developed production support workflow processes for Afiniti’s product, Afinti Airo.
+- Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.
+- Elevated operational performance through the implementation of Grafana dashboards.
+- Implemented hierarchical ML models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.
+- Developed statistical models leveraging the STAN framework to construct agent and caller profiles, intelligently pairing agents with callers, resulting in a maximum success rate.
+- Developed production support workflow processes for Afiniti’s product, Afinti Airo.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
