@@ -67,7 +67,7 @@
 **M.S. Computer Science**  
 _May 2024_
 <details>
-  <summary><em>Relevant Coursework</em>em></summary>
+  <summary><em>Relevant Coursework</em></summary>
   <ul>
     <li>Machine Learning</li>
     <li>Artificial Intelligence</li>
