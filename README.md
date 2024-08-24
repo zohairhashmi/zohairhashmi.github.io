@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education					       		
-- M.S., Computer Science	| University of Illinois at Chicago (_May 2024_)	 			        		
-- B.S., Electrical Engineering | National University of Science & Technology (_May 2019_)
+- M.S. Computer Science	| University of Illinois at Chicago (_May 2024_)	 			        		
+- B.S. Electrical Engineering | National University of Science & Technology (_May 2019_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
