@@ -106,9 +106,10 @@
   <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em> | Jan 2022 - Aug 2022</summary>
   <ul>
     <li>Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.</li>
-    <li>Automated ad-hoc reporting using SQL, Python, and Apache Spark, reducing analysis time and supporting multiple business functions.</li>
+    <li>Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.</li>
     <li>Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.</li>
     <li>Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.</li>
+    <li>Tools: Python, SQL, Apache Spark, MicroStrategy, Excel</li>
     <br>
   </ul>
 </details>
