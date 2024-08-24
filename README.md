@@ -13,7 +13,7 @@ B.S. Electrical Engineering	| _May 2019_
 ## Work Experience
 
 <details>
-  <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong><br>June 2023 - August 2023</summary>
+  <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong> | June 2023 - August 2023</summary>
   <ul>
     <li>Applied statistical methodologies under the Model Risk team to identify and mitigate biases in financial models.</li>
     <li>Partnered with model reviewers to enhance predictive models, optimizing risk management strategies.</li>
@@ -23,7 +23,7 @@ B.S. Electrical Engineering	| _May 2019_
 <br>
 
 <details>
-  <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong><br>October 2022 - December 2022</summary>
+  <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong> | October 2022 - December 2022</summary>
   <ul>
     <li>Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.</li>
     <li>Automated synchronization of data using Spark, distributing data processing on large streaming datasets.</li>
@@ -34,7 +34,7 @@ B.S. Electrical Engineering	| _May 2019_
 <br>
 
 <details>
-  <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em><br>January 2022 - August 2022</summary>
+  <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em> | January 2022 - August 2022</summary>
   <ul>
     <li>Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.</li>
     <li>Automated ad-hoc reporting using SQL, Python, and Apache Spark, reducing analysis time and supporting multiple business functions.</li>
@@ -45,7 +45,7 @@ B.S. Electrical Engineering	| _May 2019_
 <br>
 
 <details>
-  <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong> <em>(AI pairing solution in contact-center industry)</em><br>February 2020 - December 2021</summary>
+  <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong> <em>(AI pairing solution in contact-center industry)</em> | February 2020 - December 2021</summary>
   <ul>
     <li>Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.</li>
     <li>Implemented hierarchical models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.</li>
