@@ -1,6 +1,5 @@
 # Data Scientist
-## Machine Learning & Quantitative Analytics
-
+## Machine Learning & Quantitative Analytics  
 ### Skills
 
 ---
@@ -72,7 +71,8 @@
     <li>Parallel Processing</li>
   </ul>
 </details>
-  
+
+
 **National University of Science & Technology, *Islamabad, Pakistan***  
 **B.E. Electrical Engineering** _May 2019_  
 <br>
