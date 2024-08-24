@@ -1,4 +1,5 @@
 # Data Scientist
+## Machine Learning & Quantitative Analytics
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
