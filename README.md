@@ -58,8 +58,7 @@
 ---
 
 **University of Illinois at Chicago, *Chicago, Illinois, USA***  
-**M.S. Computer Science**  
-_May 2024_
+**M.S. Computer Science** _May 2024_
 <details>
   <summary><em>Relevant Coursework</em></summary>
   <ul>
@@ -75,8 +74,7 @@ _May 2024_
 </details>
 
 **National University of Science & Technology, *Islamabad, Pakistan***  
-**B.E. Electrical Engineering**  
-_May 2019_
+**B.E. Electrical Engineering** _May 2019_  
 <br>
 ### Work Experience
 
