@@ -6,7 +6,6 @@
 
 **University of Illinois at Chicago** | **Chicago, IL**
 M.S. Computer Science	| _May 2024_
-
 **National University of Science & Technology** | **Islamabad, PK**
 B.S. Electrical Engineering	| _May 2019_
 
