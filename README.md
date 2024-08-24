@@ -5,10 +5,36 @@
 
 ## Education
 
-**University of Illinois at Chicago** | **Chicago, IL**
-M.S. Computer Science	| _May 2024_  
-**National University of Science & Technology** | **Islamabad, PK**
-B.S. Electrical Engineering	| _May 2019_
+---
+
+### **University of Illinois at Chicago**  
+**Chicago, IL**  
+M.S. Computer Science  
+_May 2024_
+
+<details>
+  <summary><strong>Relevant Coursework</strong></summary>
+  <ul>
+    <li>Machine Learning</li>
+    <li>Artificial Intelligence</li>
+    <li>Computer Algorithms</li>
+    <li>Big Data Mining</li>
+    <li>Neural Networks</li>
+    <li>Biomedical NLP</li>
+    <li>Economics & Computation</li>
+    <li>Parallel Processing</li>
+  </ul>
+</details>
+
+---
+
+### **National University of Science & Technology**  
+**Islamabad, PK**  
+B.S. Electrical Engineering  
+_May 2019_
+
+---
+
 
 ## Work Experience
 
