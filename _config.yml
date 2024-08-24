@@ -1,3 +1,4 @@
 title: Zohair Hashmi  # Site title
 show_downloads: true  # Show download section
+logo: /assets/headshot.heic
 theme: jekyll-theme-minimal  # Site theme
