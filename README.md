@@ -11,6 +11,7 @@ M.S. Computer Science	| _May 2024_
 B.S. Electrical Engineering	| _May 2019_
 
 ## Work Experience
+## Work Experience
 
 <details>
   <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong><br>June 2023 - August 2023</summary>
@@ -20,7 +21,6 @@ B.S. Electrical Engineering	| _May 2019_
     <li>Leveraged game theory and classification models in Python for model explainability and feature extraction, improving predictive accuracy.</li>
   </ul>
 </details>
-
 <br>
 
 <details>
@@ -32,11 +32,10 @@ B.S. Electrical Engineering	| _May 2019_
     <li>Documented architecture, workflows, and dependencies of ETL process.</li>
   </ul>
 </details>
-
 <br>
 
 <details>
-  <summary><strong>Data Scientist</strong><br><strong>Jazz</strong><br>January 2022 - August 2022</summary>
+  <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em><br>January 2022 - August 2022</summary>
   <ul>
     <li>Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.</li>
     <li>Automated ad-hoc reporting using SQL, Python, and Apache Spark, reducing analysis time and supporting multiple business functions.</li>
@@ -44,20 +43,18 @@ B.S. Electrical Engineering	| _May 2019_
     <li>Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.</li>
   </ul>
 </details>
-
 <br>
 
 <details>
-  <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong><br>February 2020 - December 2021</summary>
+  <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong> <em>(AI pairing solution in contact-center industry)</em><br>February 2020 - December 2021</summary>
   <ul>
     <li>Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.</li>
     <li>Implemented hierarchical models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.</li>
     <li>Developed statistical models leveraging the STAN framework to construct agent and caller profiles, intelligently pairing agents with callers, resulting in a maximum success rate.</li>
     <li>Elevated operational performance through the implementation of Grafana dashboards.</li>
-    <li>Developed production support workflow processes for Afiniti’s product, Afiniti Airo.</li>
+    <li>Developed production support workflow processes for Afiniti’s product, Afinti Airo.</li>
   </ul>
 </details>
-
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
