@@ -55,6 +55,7 @@ B.S. Electrical Engineering	| _May 2019_
     <li>Developed production support workflow processes for Afiniti’s product, Afinti Airo.</li>
   </ul>
 </details>
+<br>
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
