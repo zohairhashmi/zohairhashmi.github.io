@@ -82,25 +82,24 @@
 <details>
   <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong> | Jun 2023 - Aug 2023</summary>
   <ul>
-    <li>Applied statistical methodologies under the Model Risk team to identify and mitigate biases in financial models.</li>
-    <li>Partnered with model reviewers to enhance predictive models, optimizing risk management strategies.</li>
-    <li>Leveraged game theory and classification models in Python for model explainability and feature extraction, improving predictive accuracy.</li>
+    <li>Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.</li>
+    <li>Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.</li>
+    <li>Communicated technical details to model risk management, suggesting feature engineering improvements.</li>
+    <li>Tools: Python, XGBoost, Fair Lending Analysis</li>
     <br>
   </ul>
 </details>
-<br>
-
+</n>
 <details>
   <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong> | Oct 2022 - Dec 2022</summary>
   <ul>
-    <li>Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.</li>
-    <li>Automated synchronization of data using Spark, distributing data processing on large streaming datasets.</li>
-    <li>Extracted and refined raw datasets from SQL database into optimized versions for improved comprehension and actionable reporting.</li>
-    <li>Documented architecture, workflows, and dependencies of ETL process.</li>
+    <li>Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.</li>
+    <li>Refined raw datasets from SQL databases, improving reporting and data comprehension.</li>
+    <li>Documented ETL architecture, workflows, and dependencies for better data management.</li>
+    <li>Tools: SQL, Spark, Python, WRDS</li>
     <br>
   </ul>
 </details>
-<br>
 
 <details>
   <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em> | Jan 2022 - Aug 2022</summary>
@@ -113,16 +112,15 @@
     <br>
   </ul>
 </details>
-<br>
 
 <details>
   <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong> <em>(AI pairing solution in contact-center industry)</em> | Feb 2020 - Dec 2021</summary>
   <ul>
-    <li>Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.</li>
-    <li>Implemented hierarchical models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.</li>
-    <li>Developed statistical models leveraging the STAN framework to construct agent and caller profiles, intelligently pairing agents with callers, resulting in a maximum success rate.</li>
-    <li>Elevated operational performance through the implementation of Grafana dashboards.</li>
-    <li>Developed production support workflow processes for Afiniti’s product, Afinti Airo.</li>
+    <li>Conducted in-depth root cause analyses of production issues using SQL, leading to strategic AI model enhancements.</li>
+    <li>Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.</li>
+    <li>Developed statistical models with STAN, optimizing agent-caller interactions and increasing success rates.</li>
+    <li>Created Grafana dashboards to elevate operational performance and developed support workflows for Afiniti Airo.</li>
+    <li>Tools: SQL, STAN, Grafana, Python</li>
     <br>
   </ul>
 </details>
