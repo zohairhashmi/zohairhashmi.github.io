@@ -20,6 +20,7 @@ B.S. Electrical Engineering	| _May 2019_
     <br>
   </ul>
 </details>
+<br>
 
 <details>
   <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong> | Oct 2022 - Dec 2022</summary>
@@ -31,6 +32,7 @@ B.S. Electrical Engineering	| _May 2019_
     <br>
   </ul>
 </details>
+<br>
 
 <details>
   <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em> | Jan 2022 - Aug 2022</summary>
@@ -42,6 +44,7 @@ B.S. Electrical Engineering	| _May 2019_
     <br>
   </ul>
 </details>
+<br>
 
 <details>
   <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong> <em>(AI pairing solution in contact-center industry)</em> | Feb 2020 - Dec 2021</summary>
