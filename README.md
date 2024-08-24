@@ -12,8 +12,10 @@ B.S. Electrical Engineering	| _May 2019_
 
 ## Work Experience
 **Quantitative Analytics Summer Associate @ JP Morgan Chase & Co. (_June 2023 - August 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Mitigated risk of bias in Machine Learning model via Fair Lending Analysis, using advanced feature engineering and model explainability techniques in the Model Risk team.
+- Developed credit approval model with XGBoost classifiers on Python, ensuring equal credit opportunity for all protected classes, reducing discriminatory outcomes by 20%.
+- Achieved 20-fold acceleration in model training time through SHAP approximation, optimizing resource allocation and review processes.
+- Executed top-down approach to communicate technical details to model risk management, suggesting improved feature engineering for credit-approval models.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
