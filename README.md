@@ -3,11 +3,12 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
+
 **University of Illinois at Chicago** | **Chicago, IL**
-- M.S. Computer Science	| _May 2024_
+M.S. Computer Science	| _May 2024_
 
 **National University of Science & Technology** | **Islamabad, PK**
-- B.S. Electrical Engineering	| _May 2019_
+B.S. Electrical Engineering	| _May 2019_
 
 ## Work Experience
 **Quantitative Analytics Summer Associate @ JP Morgan Chase & Co. (_June 2023 - August 2023_)**
