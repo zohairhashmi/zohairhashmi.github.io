@@ -11,6 +11,7 @@ M.S. Computer Science	| _May 2024_
 B.S. Electrical Engineering	| _May 2019_
 
 ## Work Experience
+
 <details>
   <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong><br>June 2023 - August 2023</summary>
   <ul>
@@ -20,24 +21,43 @@ B.S. Electrical Engineering	| _May 2019_
   </ul>
 </details>
 
-**Data Analyst - Graduate Assistant @ Corporate MBA Office UIC (_October 2022 - December 2022_)**
-- Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.
-- Automated synchronization of data using Spark , distributing data processing on large streaming datasets.
-- Extracted and refined raw datasets from SQL database into optimized versions for improved comprehension and actionable reporting.
-- Documented architecture, workflows, and dependencies of ETL process.
+<br>
 
-**Data Scientist @ Jazz (_January 2022 - August 2022_)**
-- Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.
-- Automated ad-hoc reporting using SQL, Python, and Apache Spark, reducing analysis time and supporting multiple business functions.
-- Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.
-- Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.
+<details>
+  <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong><br>October 2022 - December 2022</summary>
+  <ul>
+    <li>Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.</li>
+    <li>Automated synchronization of data using Spark, distributing data processing on large streaming datasets.</li>
+    <li>Extracted and refined raw datasets from SQL database into optimized versions for improved comprehension and actionable reporting.</li>
+    <li>Documented architecture, workflows, and dependencies of ETL process.</li>
+  </ul>
+</details>
 
-**Data Analyst @ Afinti (_February 2020 - December 2021_)**
-- Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.
-- Implemented hierarchical models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.
-- Developed statistical models leveraging the STAN framework to construct agent and caller profiles, intelligently pairing agents with callers, resulting in a maximum success rate.
-- Elevated operational performance through the implementation of Grafana dashboards.
-- Developed production support workflow processes for Afiniti’s product, Afinti Airo.
+<br>
+
+<details>
+  <summary><strong>Data Scientist</strong><br><strong>Jazz</strong><br>January 2022 - August 2022</summary>
+  <ul>
+    <li>Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.</li>
+    <li>Automated ad-hoc reporting using SQL, Python, and Apache Spark, reducing analysis time and supporting multiple business functions.</li>
+    <li>Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.</li>
+    <li>Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.</li>
+  </ul>
+</details>
+
+<br>
+
+<details>
+  <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong><br>February 2020 - December 2021</summary>
+  <ul>
+    <li>Proactively examined real-time data and conducted in-depth root cause analyses of production issues using SQL and monitoring tools, for strategic enhancements to the AI model.</li>
+    <li>Implemented hierarchical models, leveraging customer/agent attributes and historical interaction data at multiple levels, to aid Afiniti in improved pairing leading to caller satisfaction, agent productivity, and call center performance.</li>
+    <li>Developed statistical models leveraging the STAN framework to construct agent and caller profiles, intelligently pairing agents with callers, resulting in a maximum success rate.</li>
+    <li>Elevated operational performance through the implementation of Grafana dashboards.</li>
+    <li>Developed production support workflow processes for Afiniti’s product, Afiniti Airo.</li>
+  </ul>
+</details>
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
