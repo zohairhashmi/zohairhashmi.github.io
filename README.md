@@ -11,7 +11,6 @@ M.S. Computer Science	| _May 2024_
 B.S. Electrical Engineering	| _May 2019_
 
 ## Work Experience
-## Work Experience
 
 <details>
   <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong><br>June 2023 - August 2023</summary>
