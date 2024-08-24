@@ -1,19 +1,73 @@
 # Data Scientist
 ## Machine Learning & Quantitative Analytics
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
+### Skills
 
 ---
 
-### **University of Illinois at Chicago**  
-**Chicago, IL**  
-M.S. Computer Science  
-_May 2024_
+<details>
+  <summary><strong>Languages & Tools</strong></summary>
+  <ul>
+    <li><strong>Programming Languages:</strong>
+      <ul>
+        <li>Python</li>
+        <li>C++</li>
+        <li>SQL</li>
+      </ul>
+    </li>
+    <li><strong>Tools & Platforms:</strong>
+      <ul>
+        <li>Spark</li>
+        <li>Google Cloud Platform (GCP)</li>
+        <li>Tableau</li>
+        <li>Teradata</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+---
 
 <details>
-  <summary><strong>Relevant Coursework</strong></summary>
+  <summary><strong>Frameworks & Libraries</strong></summary>
+  <ul>
+    <li>NumPy</li>
+    <li>Pandas</li>
+    <li>Matplotlib</li>
+    <li>XGBoost</li>
+    <li>Scikit-learn</li>
+    <li>PyTorch</li>
+    <li>PyMC</li>
+    <li>TensorFlow</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary><strong>Core Competencies</strong></summary>
+  <ul>
+    <li>Data Mining</li>
+    <li>Visualization</li>
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Database Management</li>
+    <li>Distributed Computing</li>
+  </ul>
+</details>
+
+---
+
+
+### Education
+
+---
+
+**University of Illinois at Chicago, *Chicago, Illinois, USA***  
+**M.S. Computer Science**  
+_May 2024_
+<details>
+  <summary><em>Relevant Coursework</em>em></summary>
   <ul>
     <li>Machine Learning</li>
     <li>Artificial Intelligence</li>
@@ -26,17 +80,14 @@ _May 2024_
   </ul>
 </details>
 
----
-
-### **National University of Science & Technology**  
-**Islamabad, PK**  
-B.S. Electrical Engineering  
+**National University of Science & Technology, *Islamabad, Pakistan***  
+**B.E. Electrical Engineering**  
 _May 2019_
 
 ---
 
 
-## Work Experience
+### Work Experience
 
 <details>
   <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong> | Jun 2023 - Aug 2023</summary>
