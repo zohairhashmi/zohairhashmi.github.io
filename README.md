@@ -55,6 +55,13 @@
 ### Education
 
 ---
+**University of Illinois at Chicago**  
+***Chicago, Illinois, USA* <img src="https://github.com/zohairhashmi/zohairhashmi.github.io/blob/main/assets/us.png" alt="Pakistan Flag" width="20" height="15">**  
+**M.S. Computer Science** _May 2024_
+
+**National University of Science & Technology**  
+***Islamabad, Pakistan* <img src="https://github.com/zohairhashmi/zohairhashmi.github.io/blob/main/assets/pk.png" alt="Pakistan Flag" width="20" height="15">**  
+**B.E. Electrical Engineering** _May 2019_
 
 **University of Illinois at Chicago, *Chicago, Illinois, USA* 🇺🇸**  
 **M.S. Computer Science** _May 2024_
