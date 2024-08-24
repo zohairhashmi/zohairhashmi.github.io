@@ -153,6 +153,6 @@
 
 - Developed techniques to quantify uncertainty and enhance fairness in ML models, addressing biases in datasets.
 - Analyzed aleatoric and epistemic uncertainties using Monte Carlo Markov Chains (MCMC) with PyMC and TensorFlow.
-- Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.**
+- Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.
 - Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
 
