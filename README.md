@@ -16,6 +16,15 @@ B.S. Electrical Engineering	| _May 2019_
 - Partnered with model reviewers to enhance predictive models, optimizing risk management strategies.
 - Leveraged game theory and classification models in Python for model explainability and feature extraction, improving predictive accuracy.
 
+<details>
+  <summary><strong>Quantitative Analytics Summer Associate @ JP Morgan Chase & Co. (_June 2023 - August 2023_)</strong></summary>
+  <ul>
+    <li>Applied statistical methodologies under the Model Risk team to identify and mitigate biases in financial models.</li>
+    <li>Partnered with model reviewers to enhance predictive models, optimizing risk management strategies.</li>
+    <li>Leveraged game theory and classification models in Python for model explainability and feature extraction, improving predictive accuracy.</li>
+  </ul>
+</details>
+
 **Data Analyst - Graduate Assistant @ Corporate MBA Office UIC (_October 2022 - December 2022_)**
 - Implemented ETL process to ingest financial stock market data of 10 geographical zones from WRDS.
 - Automated synchronization of data using Spark , distributing data processing on large streaming datasets.
