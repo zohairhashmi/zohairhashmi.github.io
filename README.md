@@ -11,13 +11,8 @@ M.S. Computer Science	| _May 2024_
 B.S. Electrical Engineering	| _May 2019_
 
 ## Work Experience
-**Quantitative Analytics Summer Associate @ JP Morgan Chase & Co. (_June 2023 - August 2023_)**
-- Applied statistical methodologies under the Model Risk team to identify and mitigate biases in financial models.
-- Partnered with model reviewers to enhance predictive models, optimizing risk management strategies.
-- Leveraged game theory and classification models in Python for model explainability and feature extraction, improving predictive accuracy.
-
 <details>
-  <summary><strong>Quantitative Analytics Summer Associate @ JP Morgan Chase & Co. (_June 2023 - August 2023_)</strong></summary>
+  <summary><strong>Quantitative Analytics Summer Associate @ JP Morgan Chase & Co.</strong><br>(June 2023 - August 2023)</summary>
   <ul>
     <li>Applied statistical methodologies under the Model Risk team to identify and mitigate biases in financial models.</li>
     <li>Partnered with model reviewers to enhance predictive models, optimizing risk management strategies.</li>
