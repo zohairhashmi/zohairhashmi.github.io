@@ -142,7 +142,7 @@
 - Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
 - Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
 
-#### Algorithmic Fairness & Uncertainty Analysis [GitHub]
+#### Algorithmic Fairness & Uncertainty Analysis [GitHub](https://github.com/zohairhashmi/uncertainty-quantification)
 
 - Developed techniques to quantify uncertainty and enhance fairness in ML models, addressing biases in datasets.
 - Analyzed aleatoric and epistemic uncertainties using Monte Carlo Markov Chains (MCMC) with PyMC and TensorFlow.
