@@ -150,4 +150,4 @@
 - Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.
 - Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
 
-#### [My First Ever Attempt Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
+#### [My First Ever Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
