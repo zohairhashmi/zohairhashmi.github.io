@@ -155,3 +155,4 @@ Feel free to reach out to me through the following channels:
 
 - **<img src="/assets/email_logo.png" alt="US Flag" width="18" height="13"> &nbsp; Email:** [hashmi.zohair@gmail.com](mailto:hashmi.zohair@gmail.com)
 - **<img src="/assets/linkedin_logo.png" alt="US Flag" width="18" height="13"> &nbsp; LinkedIn:** [linkedin.com/in/zohairhashmi](https://linkedin.com/in/zohairhashmi)
+
