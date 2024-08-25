@@ -82,7 +82,7 @@
 ---
 
 <details>
-  <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong> | New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13"> | Jun 2023 - Aug 2023</summary>
+  <summary><strong>JP Morgan Chase & Co. </strong>| New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13"> |<br><strong>Quantitative Analytics Summer Associate </strong>| Jun 2023 - Aug 2023</summary>
   <ul>
     <li>Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.</li>
     <li>Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.</li>
@@ -93,7 +93,7 @@
 </details>
 <br>
 <details>
-  <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong> | Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13"> | Oct 2022 - Dec 2022</summary>
+  <summary><strong>Corporate MBA Office UIC </strong>| Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13"> |<br><strong>Data Analyst - Graduate Assistant </strong>| Oct 2022 - Dec 2022</summary>
   <ul>
     <li>Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.</li>
     <li>Refined raw datasets from SQL databases, improving reporting and data comprehension.</li>
@@ -104,7 +104,7 @@
 </details>
 <br>
 <details>
-  <summary><strong>Data Scientist</strong><br><strong>Jazz</strong> <em>(Pakistan's leading telecom provider)</em> | Jan 2022 - Aug 2022</summary>
+  <summary><strong>Jazz </strong><em>(Pakistan's leading telecom provider)</em> | Islamabad, PK <img src="/assets/pk.png" alt="US Flag" width="18" height="13"><br><strong>Data Scientist </strong>| Jan 2022 - Aug 2022</summary>
   <ul>
     <li>Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.</li>
     <li>Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.</li>
@@ -116,7 +116,7 @@
 </details>
 <br>
 <details>
-  <summary><strong>Data Analyst</strong><br><strong>Afiniti</strong> <em>(AI pairing solution in contact-center industry)</em> | Feb 2020 - Dec 2021</summary>
+  <summary><strong>Afiniti </strong><em>(AI pairing solution in contact-center industry)</em> | Karachi, PK <img src="/assets/pk.png" alt="US Flag" width="18" height="13"><br><strong>Data Analyst </strong>| Feb 2020 - Dec 2021</summary>
   <ul>
     <li>Conducted in-depth root cause analyses of production issues using SQL, leading to strategic AI model enhancements.</li>
     <li>Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.</li>
