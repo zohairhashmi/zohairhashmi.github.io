@@ -56,7 +56,7 @@
 
 ---
 **University of Illinois at Chicago**  
-***Chicago, Illinois, USA* <img src="/assets/us.png" alt="US Flag" width="18" height="13">**  
+***Chicago, Illinois, USA* &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">**  
 **M.S. Computer Science** _May 2024_
 <details>
   <summary><em>Relevant Coursework</em></summary>
@@ -74,14 +74,14 @@
 <br>
 
 **National University of Science & Technology**  
-***Islamabad, Pakistan* <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
+***Islamabad, Pakistan* &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
 **B.E. Electrical Engineering** _May 2019_
 <br>
 
 ### WORK EXPERIENCE
 
 ---
-**JP Morgan Chase & Co.** | New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
+**JP Morgan Chase & Co.** | New York, NY &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
 **Quantitative Analytics Summer Associate** | Jun 2023 - Aug 2023  
 - Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.
 - Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.
@@ -89,7 +89,7 @@
 - **Tools:** Python, XGBoost, Fair Lending Analysis  
 <br>
 
-**Corporate MBA Office UIC** | Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
+**Corporate MBA Office UIC** | Chicago, IL &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
 **Data Analyst - Graduate Assistant** | Oct 2022 - Dec 2022  
 - Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.
 - Refined raw datasets from SQL databases, improving reporting and data comprehension.
@@ -97,7 +97,7 @@
 - **Tools:** SQL, Spark, Python, WRDS  
 <br>
 
-**Jazz** *(Pakistan's leading telecom provider)* | Islamabad, PK <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Jazz** *(Pakistan's leading telecom provider)* | Islamabad, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
 **Data Scientist** | Jan 2022 - Aug 2022  
 - Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.
 - Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.
@@ -106,7 +106,7 @@
 - **Tools:** Python, SQL, Apache Spark, MicroStrategy, Excel  
 <br>
 
-**Afiniti** *(AI pairing solution in contact-center industry)* | Karachi, PK <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Afiniti** *(AI pairing solution in contact-center industry)* | Karachi, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
 **Data Analyst** | Feb 2020 - Dec 2021  
 - Conducted in-depth root cause analyses of production issues using SQL, leading to strategic AI model enhancements.
 - Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.
