@@ -82,7 +82,7 @@
 ---
 
 <details>
-  <summary><strong>JP Morgan Chase & Co. </strong>| New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13"> |<br><strong>Quantitative Analytics Summer Associate </strong>| Jun 2023 - Aug 2023</summary>
+  <summary><strong>JP Morgan Chase & Co. </strong>| New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13"> <br><strong>Quantitative Analytics Summer Associate </strong>| Jun 2023 - Aug 2023</summary>
   <ul>
     <li>Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.</li>
     <li>Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.</li>
@@ -93,7 +93,7 @@
 </details>
 <br>
 <details>
-  <summary><strong>Corporate MBA Office UIC </strong>| Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13"> |<br><strong>Data Analyst - Graduate Assistant </strong>| Oct 2022 - Dec 2022</summary>
+  <summary><strong>Corporate MBA Office UIC </strong>| Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13"> <br><strong>Data Analyst - Graduate Assistant </strong>| Oct 2022 - Dec 2022</summary>
   <ul>
     <li>Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.</li>
     <li>Refined raw datasets from SQL databases, improving reporting and data comprehension.</li>
