@@ -20,6 +20,9 @@
         <li>Google Cloud Platform (GCP)</li>
         <li>Tableau</li>
         <li>Teradata</li>
+        <li>MicroStrategy</li>
+        <li>Grafana</li>
+        <li>JIRA, Confluence</li>
       </ul>
     </li>
   </ul>
