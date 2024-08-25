@@ -56,7 +56,7 @@
 
 ---
 **University of Illinois at Chicago**  
-***Chicago, Illinois, USA* <img src="/assets/us.png" alt="US Flag" width="20" height="15">**  
+***Chicago, Illinois, USA* <img src="/assets/us.png" alt="US Flag" width="18" height="13">**  
 **M.S. Computer Science** _May 2024_
 <details>
   <summary><em>Relevant Coursework</em></summary>
@@ -74,7 +74,7 @@
 <br>
 
 **National University of Science & Technology**  
-***Islamabad, Pakistan* <img src="assets/pk.png" alt="Pakistan Flag" width="20" height="15">**  
+***Islamabad, Pakistan* <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
 **B.E. Electrical Engineering** _May 2019_
 <br>
 ### Work Experience
@@ -82,7 +82,7 @@
 ---
 
 <details>
-  <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong> | Jun 2023 - Aug 2023</summary>
+  <summary><strong>Quantitative Analytics Summer Associate</strong><br><strong>JP Morgan Chase & Co.</strong> | New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13"> | Jun 2023 - Aug 2023</summary>
   <ul>
     <li>Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.</li>
     <li>Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.</li>
@@ -93,7 +93,7 @@
 </details>
 <br>
 <details>
-  <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong> | Oct 2022 - Dec 2022</summary>
+  <summary><strong>Data Analyst - Graduate Assistant</strong><br><strong>Corporate MBA Office UIC</strong> | Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13"> | Oct 2022 - Dec 2022</summary>
   <ul>
     <li>Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.</li>
     <li>Refined raw datasets from SQL databases, improving reporting and data comprehension.</li>
