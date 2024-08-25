@@ -77,55 +77,42 @@
 ***Islamabad, Pakistan* <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
 **B.E. Electrical Engineering** _May 2019_
 <br>
+
 ### WORK EXPERIENCE
 
 ---
+**JP Morgan Chase & Co.** | New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
+**Quantitative Analytics Summer Associate** | Jun 2023 - Aug 2023  
+- Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.
+- Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.
+- Communicated technical details to model risk management, suggesting feature engineering improvements.
+- **Tools:** Python, XGBoost, Fair Lending Analysis  
+<br>
 
-<details>
-  <summary><strong>JP Morgan Chase & Co. </strong>| New York, NY <img src="/assets/us.png" alt="US Flag" width="18" height="13"> <br><strong>Quantitative Analytics Summer Associate </strong>| Jun 2023 - Aug 2023</summary>
-  <ul>
-    <li>Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.</li>
-    <li>Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.</li>
-    <li>Communicated technical details to model risk management, suggesting feature engineering improvements.</li>
-    <li>Tools: Python, XGBoost, Fair Lending Analysis</li>
-    <br>
-  </ul>
-</details>
+**Corporate MBA Office UIC** | Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
+**Data Analyst - Graduate Assistant** | Oct 2022 - Dec 2022  
+- Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.
+- Refined raw datasets from SQL databases, improving reporting and data comprehension.
+- Documented ETL architecture, workflows, and dependencies for better data management.
+- **Tools:** SQL, Spark, Python, WRDS  
 <br>
-<details>
-  <summary><strong>Corporate MBA Office UIC </strong>| Chicago, IL <img src="/assets/us.png" alt="US Flag" width="18" height="13"> <br><strong>Data Analyst - Graduate Assistant </strong>| Oct 2022 - Dec 2022</summary>
-  <ul>
-    <li>Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.</li>
-    <li>Refined raw datasets from SQL databases, improving reporting and data comprehension.</li>
-    <li>Documented ETL architecture, workflows, and dependencies for better data management.</li>
-    <li>Tools: SQL, Spark, Python, WRDS</li>
-    <br>
-  </ul>
-</details>
+
+**Jazz** *(Pakistan's leading telecom provider)* | Islamabad, PK <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Data Scientist** | Jan 2022 - Aug 2022  
+- Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.
+- Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.
+- Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.
+- Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.
+- **Tools:** Python, SQL, Apache Spark, MicroStrategy, Excel  
 <br>
-<details>
-  <summary><strong>Jazz </strong><em>(Pakistan's leading telecom provider)</em> | Islamabad, PK <img src="/assets/pk.png" alt="US Flag" width="18" height="13"><br><strong>Data Scientist </strong>| Jan 2022 - Aug 2022</summary>
-  <ul>
-    <li>Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.</li>
-    <li>Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.</li>
-    <li>Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.</li>
-    <li>Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.</li>
-    <li>Tools: Python, SQL, Apache Spark, MicroStrategy, Excel</li>
-    <br>
-  </ul>
-</details>
-<br>
-<details>
-  <summary><strong>Afiniti </strong><em>(AI pairing solution in contact-center industry)</em> | Karachi, PK <img src="/assets/pk.png" alt="US Flag" width="18" height="13"><br><strong>Data Analyst </strong>| Feb 2020 - Dec 2021</summary>
-  <ul>
-    <li>Conducted in-depth root cause analyses of production issues using SQL, leading to strategic AI model enhancements.</li>
-    <li>Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.</li>
-    <li>Developed statistical models with STAN, optimizing agent-caller interactions and increasing success rates.</li>
-    <li>Created Grafana dashboards to elevate operational performance and developed support workflows for Afiniti Airo.</li>
-    <li>Tools: SQL, STAN, Grafana, Python</li>
-    <br>
-  </ul>
-</details>
+
+**Afiniti** *(AI pairing solution in contact-center industry)* | Karachi, PK <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Data Analyst** | Feb 2020 - Dec 2021  
+- Conducted in-depth root cause analyses of production issues using SQL, leading to strategic AI model enhancements.
+- Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.
+- Developed statistical models with STAN, optimizing agent-caller interactions and increasing success rates.
+- Created Grafana dashboards to elevate operational performance and developed support workflows for Afiniti Airo.
+- **Tools:** SQL, STAN, Grafana, Python  
 <br>
 
 ### PROJECTS
