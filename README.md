@@ -1,3 +1,5 @@
+<div style="font-family: Cambria, 'Times New Roman', Times, serif;">
+
 # Data Scientist
 ## Machine Learning & Quantitative Analytics  
 ### TECHNICAL SKILLS
