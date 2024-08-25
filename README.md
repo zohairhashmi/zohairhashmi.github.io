@@ -1,5 +1,3 @@
-<div style="font-family: Cambria, 'Times New Roman', Times, serif;">
-
 # Data Scientist
 ## Machine Learning & Quantitative Analytics  
 ### TECHNICAL SKILLS
@@ -144,5 +142,4 @@
 - Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
 
 #### [My First Ever Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
-
-</div>
+<br>
