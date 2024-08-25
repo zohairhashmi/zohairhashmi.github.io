@@ -1,13 +1,13 @@
 /* Custom CSS to resize the logo */
 .site-logo img {
-    width: 80%; /* Adjust the width as needed */
-    height: auto; /* Maintains the aspect ratio */
+    width: 80% !important; /* Adjust the width as needed */
+    height: auto !important; /* Maintains the aspect ratio */
 }
 
 h1.site-title {
-    font-family: Cambria, "Times New Roman", Times, serif;
+    font-family: Cambria, "Times New Roman", Times, serif !important;
 }
 
 body {
-    font-family: Cambria, "Times New Roman", Times, serif;
+    font-family: Cambria, "Times New Roman", Times, serif !important;
 }
