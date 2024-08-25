@@ -1,3 +1,4 @@
 title: Zohair Hashmi  # Site title
 logo: /assets/headshot.png
 theme: jekyll-theme-minimal  # Site theme
+css: /assets/style.css  # Link to your custom CSS file
