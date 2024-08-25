@@ -1,0 +1,5 @@
+/* Custom CSS to resize the logo */
+.site-logo img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintains the aspect ratio */
+}
