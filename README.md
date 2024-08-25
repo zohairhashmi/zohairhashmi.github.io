@@ -151,8 +151,7 @@
 
 ---
 
-Feel free to reach out to me through the following channels:
-
-- **<img src="/assets/email_logo.png" alt="US Flag" width="18" height="18"> &nbsp;** [hashmi.zohair@gmail.com](mailto:hashmi.zohair@gmail.com)
-- **<img src="/assets/linkedin_logo.png" alt="US Flag" width="18" height="18"> &nbsp;** [linkedin.com/in/zohairhashmi](https://linkedin.com/in/zohairhashmi)
+Feel free to reach out to me through the following channels:  
+**<img src="/assets/email_logo.png" alt="US Flag" width="18" height="18">** [hashmi.zohair@gmail.com](mailto:hashmi.zohair@gmail.com)  
+**<img src="/assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [linkedin.com/in/zohairhashmi](https://linkedin.com/in/zohairhashmi)
 
