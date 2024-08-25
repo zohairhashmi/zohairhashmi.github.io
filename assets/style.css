@@ -3,3 +3,7 @@
     width: 80%; /* Adjust the width as needed */
     height: auto; /* Maintains the aspect ratio */
 }
+
+h1.site-title {
+    font-family: Cambria, "Times New Roman", Times, serif;
+}
