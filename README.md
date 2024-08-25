@@ -1,6 +1,6 @@
 # Data Scientist
 ## Machine Learning & Quantitative Analytics  
-### Skills
+### TECHNICAL SKILLS
 
 ---
 
@@ -52,7 +52,7 @@
 </details>
 <br>
 
-### Education
+### EDUCATION
 
 ---
 **University of Illinois at Chicago**  
@@ -77,7 +77,7 @@
 ***Islamabad, Pakistan* <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
 **B.E. Electrical Engineering** _May 2019_
 <br>
-### Work Experience
+### WORK EXPERIENCE
 
 ---
 
@@ -128,7 +128,7 @@
 </details>
 <br>
 
-### Projects
+### PROJECTS
 
 ---
 #### RAG-based LLM for Medical Dialogue Generation – Biomedical NLP [GitHub](https://github.com/advaitpai/Medical-Dialog-Generation)
