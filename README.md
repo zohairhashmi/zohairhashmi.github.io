@@ -86,7 +86,8 @@
 - Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.
 - Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.
 - Communicated technical details to model risk management, suggesting feature engineering improvements.
-- **Tools:** Python, XGBoost, Fair Lending Analysis  
+- **Tools:** Python, Jupyter, XGBoost, Scikit-learn
+- **Competencies:** Fair Lending Analysis, Model Review, Risk Management, Machine Learning
 <br>
 
 **Corporate MBA Office UIC** | Chicago, IL &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
@@ -94,7 +95,8 @@
 - Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.
 - Refined raw datasets from SQL databases, improving reporting and data comprehension.
 - Documented ETL architecture, workflows, and dependencies for better data management.
-- **Tools:** SQL, Spark, Python, WRDS  
+- **Tools:** SQL, Spark, Python, WRDS
+- **Competencies:** ETL, Data Engineering, Automation
 <br>
 
 **Jazz** *(Pakistan's leading telecom provider)* | Islamabad, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
@@ -103,7 +105,8 @@
 - Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.
 - Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.
 - Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.
-- **Tools:** Python, SQL, Apache Spark, MicroStrategy, Excel  
+- **Tools:** Python, SQL, Scikit-learn, XGBoost, Apache Spark, MicroStrategy, Excel
+- **Competencies:** Machine Learning, Churn Forecasting, Customer Segmentation, Adhoc Analysis, Stakeholder Management
 <br>
 
 **Afiniti** *(AI pairing solution in contact-center industry)* | Karachi, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
@@ -112,7 +115,8 @@
 - Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.
 - Developed statistical models with STAN, optimizing agent-caller interactions and increasing success rates.
 - Created Grafana dashboards to elevate operational performance and developed support workflows for Afiniti Airo.
-- **Tools:** SQL, STAN, Grafana, Python  
+- **Tools:** SQL, STAN, Grafana, Python
+- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
 <br>
 
 ### PROJECTS
