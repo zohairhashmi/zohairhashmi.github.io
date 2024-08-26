@@ -144,6 +144,11 @@
 - Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.
 - Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
 
+#### Parallel Processing: My First Dips into Data Speed
+1. [Matrx Multiplication via CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
+2. [2D Convolution using MPI](https://github.com/zohairhashmi/gaussian-elimination)
+3. [Gaussian Elimination using MPI](https://github.com/zohairhashmi/Convolution2D-Parallel-Processing)
+
 #### [My First Ever Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
 <br>
 
