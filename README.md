@@ -136,6 +136,8 @@
 - Designed a Transformer-based model for automated trading, achieving 86% prediction accuracy and optimizing investment portfolio decisions.
 - Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
 - Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
+<!-- Adding an image under the project -->
+<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="800">
 
 #### Algorithmic Fairness & Uncertainty Analysis  [GitHub](https://github.com/zohairhashmi/uncertainty-quantification)
 
