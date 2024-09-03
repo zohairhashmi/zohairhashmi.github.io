@@ -130,6 +130,8 @@
 - Created a healthcare chatbot on GCP that provides contextually relevant responses to medical queries using NLP, Retrieval-Augmented Generation, and GPT-3 on PyTorch.
 - Enhanced response accuracy by 45% by quantifying RAG's effectiveness using pre-trained BERT embedded tokens.
 - Minimized inherent hallucinations to a 2% response rate through fine-tuning and prompt engineering techniques.
+<!-- Adding an image under the project -->
+<img src="assets/RAG.png" alt="Predictive Trading Transformer" width="500">
 
 #### Predictive Trading with Transformer Models: An AI-Powered Solution [GitHub](https://github.com/zohairhashmi/blockhouse-transformers)
 
@@ -137,7 +139,7 @@
 - Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
 - Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
 <!-- Adding an image under the project -->
-<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="800">
+<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
 
 #### Algorithmic Fairness & Uncertainty Analysis  [GitHub](https://github.com/zohairhashmi/uncertainty-quantification)
 
