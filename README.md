@@ -7,7 +7,7 @@ I’m Zohair Hashmi, a Senior Data Scientist at Mastercard. I build machine lear
 ### Mastercard · Senior Data Scientist
 
 *O'Fallon, MO* <img src="/assets/us.png" alt="United States flag" width="18" height="12">  
-*· Nov 2024–Present*
+*Nov 2024–Present*
 
 My work focuses on the systems and analysis behind production fraud models:
 
@@ -21,23 +21,23 @@ My work focuses on the systems and analysis behind production fraud models:
 ## Earlier experience
 
 **JPMorgan Chase & Co. — Quantitative Analytics Summer Associate**<br>
-*New York, NY* <img src="/assets/us.png" alt="United States flag" width="18" height="12"> 
-*· Jun–Aug 2023*<br>
+*New York, NY* <img src="/assets/us.png" alt="United States flag" width="18" height="12">  
+*Jun–Aug 2023*<br>
 - Analyzed bias in financial models and developed an XGBoost credit-approval model. Worked with model risk management on validation and feature engineering.
 
 **University of Illinois Chicago, Corporate MBA Office — Data Analyst, Graduate Assistant**<br>
-*Chicago, IL* <img src="/assets/us.png" alt="United States flag" width="18" height="12"> 
-*· Oct–Dec 2022*<br>
+*Chicago, IL* <img src="/assets/us.png" alt="United States flag" width="18" height="12">  
+*Oct–Dec 2022*<br>
 - Built ETL workflows for financial market data, refined SQL datasets, and documented the data pipeline.
 
 **Jazz — Data Scientist**<br>
-*Islamabad, Pakistan* <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12"> 
-*· Jan–Aug 2022*<br>
+*Islamabad, Pakistan* <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12">  
+*Jan–Aug 2022*<br>
 - Developed models and analysis for customer churn, segmentation, campaign outcomes, and targeted marketing. Used PySpark and SQL to work with large telecom datasets.
 
 **Afiniti — Data Analyst**<br>
-*Karachi, Pakistan* <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12"> 
-*· Feb 2020–Dec 2021*<br>
+*Karachi, Pakistan* <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12">  
+*Feb 2020–Dec 2021*<br>
 - Investigated production AI issues, developed statistical models for caller–agent pairing, and built Grafana dashboards for operational monitoring.
 
 ## Academic Projects
