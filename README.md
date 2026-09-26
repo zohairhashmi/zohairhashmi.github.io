@@ -1,168 +1,77 @@
-# Data Scientist
-## Machine Learning & Quantitative Analytics  
-### TECHNICAL SKILLS
+# Machine Learning, Data Science & Applied AI
 
----
+I’m Zohair Hashmi, a Senior Data Scientist at Mastercard. I build machine learning systems that turn complex data into useful decisions. My recent work spans fraud detection, distributed feature engineering, production model validation, and AI tools for data science and engineering teams. I enjoy connecting statistical analysis with reliable systems that people can use in practice.
 
-<details>
-  <summary><strong>Languages & Tools</strong></summary>
-  <ul>
-    <li><strong>Programming Languages:</strong>
-      <ul>
-        <li>Python</li>
-        <li>C++</li>
-        <li>SQL</li>
-      </ul>
-    </li>
-    <li><strong>Tools & Platforms:</strong>
-      <ul>
-        <li>Spark</li>
-        <li>Google Cloud Platform (GCP)</li>
-        <li>Tableau</li>
-        <li>Teradata</li>
-        <li>MicroStrategy</li>
-        <li>Grafana</li>
-        <li>JIRA, Confluence</li>
-      </ul>
-    </li>
-  </ul>
-</details>
+## Current work
 
-<details>
-  <summary><strong>Frameworks & Libraries</strong></summary>
-  <ul>
-    <li>NumPy</li>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-    <li>XGBoost</li>
-    <li>Scikit-learn</li>
-    <li>PyTorch</li>
-    <li>PyMC</li>
-    <li>TensorFlow</li>
-  </ul>
-</details>
+### Mastercard · Senior Data Scientist
 
-<details>
-  <summary><strong>Core Competencies</strong></summary>
-  <ul>
-    <li>Data Mining</li>
-    <li>Visualization</li>
-    <li>Machine Learning</li>
-    <li>Deep Learning</li>
-    <li>Database Management</li>
-    <li>Distributed Computing</li>
-  </ul>
-</details>
-<br>
+My work focuses on the systems and analysis behind production fraud models:
 
-### EDUCATION
+- **Fraud feature development.** I designed and engineered a distributed approach for generating mature feature values from historical transactions, helping modeling teams validate and deploy new signals sooner.
+- **Production ML pipelines.** I contributed to moving fraud-feature workflows from Hadoop to Databricks, then led engineering of a process for recurring feature builds, monitoring, and validation.
+- **Model validation and monitoring.** I designed a workflow that compares live and offline model behavior using feature-level diagnostics. I also studied how model performance changes as profiles age and helped establish a refresh strategy.
+- **Applied AI for diagnostics.** I developed an evaluation component within a multi-agent model debugger. It reviews statistical and model evidence, ranks potential issues, and helps data scientists focus their investigations.
+- **AI tools for engineering teams.** I built an advisor that analyzes compute utilization and recommends configurations for human review. I also co-lead shared AI enablement work and develop reusable skills, agents, and documentation tools.
+- **Research to production.** I implemented distributed feature generation for a research-developed cardholder–merchant preference algorithm. I am also leading a pilot to migrate a feature pipeline to a newer processing engine.
 
----
-**University of Illinois at Chicago**  
-***Chicago, Illinois, USA* &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">**  
-**M.S. Computer Science** _May 2024_
-<details>
-  <summary><em>Relevant Coursework</em></summary>
-  <ul>
-    <li>Machine Learning</li>
-    <li>Artificial Intelligence</li>
-    <li>Computer Algorithms</li>
-    <li>Big Data Mining</li>
-    <li>Neural Networks</li>
-    <li>Biomedical NLP</li>
-    <li>Economics & Computation</li>
-    <li>Parallel Processing</li>
-  </ul>
-</details>
-<br>
+## Earlier experience
 
-**National University of Science & Technology**  
-***Islamabad, Pakistan* &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
-**B.E. Electrical Engineering** _May 2019_
-<br>
+**JPMorgan Chase & Co. — Quantitative Analytics Summer Associate**<br>
+*New York, NY* <img src="/assets/us.png" alt="United States flag" width="18" height="12"> *· Jun–Aug 2023*<br>
+Analyzed bias in financial models and developed an XGBoost credit-approval model. Worked with model risk management on validation and feature engineering.
 
-### WORK EXPERIENCE
+**University of Illinois Chicago, Corporate MBA Office — Data Analyst, Graduate Assistant**<br>
+*Chicago, IL* <img src="/assets/us.png" alt="United States flag" width="18" height="12"> *· Oct–Dec 2022*<br>
+Built ETL workflows for financial market data, refined SQL datasets, and documented the data pipeline.
 
----
-**JP Morgan Chase & Co.** | New York, NY &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
-**Quantitative Analytics Summer Associate** | Jun 2023 - Aug 2023  
-- Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.
-- Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.
-- Communicated technical details to model risk management, suggesting feature engineering improvements.
-- **Tools:** Python, Jupyter, XGBoost, Scikit-learn
-- **Competencies:** Fair Lending Analysis, Model Review, Risk Management, Machine Learning
-<br>
+**Jazz — Data Scientist**<br>
+*Islamabad, Pakistan* <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12"> *· Jan–Aug 2022*<br>
+Developed models and analysis for customer churn, segmentation, campaign outcomes, and targeted marketing. Used PySpark and SQL to work with large telecom datasets.
 
-**Corporate MBA Office UIC** | Chicago, IL &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
-**Data Analyst - Graduate Assistant** | Oct 2022 - Dec 2022  
-- Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.
-- Refined raw datasets from SQL databases, improving reporting and data comprehension.
-- Documented ETL architecture, workflows, and dependencies for better data management.
-- **Tools:** SQL, Spark, Python, WRDS
-- **Competencies:** ETL, Data Engineering, Automation
-<br>
+**Afiniti — Data Analyst**<br>
+*Karachi, Pakistan* <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12"> *· Feb 2020–Dec 2021*<br>
+Investigated production AI issues, developed statistical models for caller–agent pairing, and built Grafana dashboards for operational monitoring.
 
-**Jazz** *(Pakistan's leading telecom provider)* | Islamabad, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Scientist** | Jan 2022 - Aug 2022  
-- Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.
-- Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.
-- Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.
-- Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.
-- **Tools:** Python, SQL, Scikit-learn, XGBoost, Apache Spark, MicroStrategy, Excel
-- **Competencies:** Machine Learning, Churn Forecasting, Customer Segmentation, Adhoc Analysis, Stakeholder Management
-<br>
+## Selected projects
 
-**Afiniti** *(AI pairing solution in contact-center industry)* | Karachi, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Analyst** | Feb 2020 - Dec 2021  
-- Conducted in-depth root cause analyses of production issues using SQL, leading to strategic AI model enhancements.
-- Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.
-- Developed statistical models with STAN, optimizing agent-caller interactions and increasing success rates.
-- Created Grafana dashboards to elevate operational performance and developed support workflows for Afiniti Airo.
-- **Tools:** SQL, STAN, Grafana, Python
-- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
-<br>
+### [Medical Dialogue Generation with RAG](https://github.com/advaitpai/Medical-Dialog-Generation)
 
-### PROJECTS
+A biomedical NLP project exploring retrieval-augmented generation for medical dialogue. Built a healthcare chatbot on Google Cloud using PyTorch and GPT-3, and evaluated response quality with BERT-based representations.
 
----
-#### RAG-based LLM for Medical Dialogue Generation – Biomedical NLP [GitHub](https://github.com/advaitpai/Medical-Dialog-Generation)
+<img src="/assets/RAG.png" alt="Diagram of the medical dialogue generation project" width="500">
 
-- Created a healthcare chatbot on GCP that provides contextually relevant responses to medical queries using NLP, Retrieval-Augmented Generation, and GPT-3 on PyTorch.
-- Enhanced response accuracy by 45% by quantifying RAG's effectiveness using pre-trained BERT embedded tokens.
-- Minimized inherent hallucinations to a 2% response rate through fine-tuning and prompt engineering techniques.
-  
-<!-- Adding an image under the project -->
-<img src="assets/RAG.png" alt="Predictive Trading Transformer" width="500">
+### [Predictive Trading with Transformers](https://github.com/zohairhashmi/blockhouse-transformers)
 
-#### Predictive Trading with Transformer Models: An AI-Powered Solution [GitHub](https://github.com/zohairhashmi/blockhouse-transformers)
+Developed a Transformer-based trading model using market prices and technical indicators, then tested a momentum-based trading strategy.
 
-- Designed a Transformer-based model for automated trading, achieving 86% prediction accuracy and optimizing investment portfolio decisions.
-- Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
-- Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
-  
-<!-- Adding an image under the project -->
-<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
+<img src="/assets/blockhouse-trading.png" alt="Results from the predictive trading project" width="500">
 
-#### Algorithmic Fairness & Uncertainty Analysis  [GitHub](https://github.com/zohairhashmi/uncertainty-quantification)
+### [Algorithmic Fairness & Uncertainty Analysis](https://github.com/zohairhashmi/uncertainty-quantification)
 
-- Developed techniques to quantify uncertainty and enhance fairness in ML models, addressing biases in datasets.
-- Analyzed aleatoric and epistemic uncertainties using Monte Carlo Markov Chains (MCMC) with PyMC and TensorFlow.
-- Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.
-- Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
+Studied aleatoric and epistemic uncertainty in machine learning models with PyMC, TensorFlow, ensembles, and dropout networks, and explored how uncertainty relates to model fairness.
 
-#### Parallel Processing: My First Dips into Data Speed
-1. [Matrx Multiplication via CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
-2. [2D Convolution using MPI](https://github.com/zohairhashmi/gaussian-elimination)
-3. [Gaussian Elimination using MPI](https://github.com/zohairhashmi/Convolution2D-Parallel-Processing)
+### Parallel processing
 
-#### [My First Ever Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
-<br>
+- [Matrix multiplication with CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
+- [2D convolution with MPI](https://github.com/zohairhashmi/Convolution2D-Parallel-Processing)
+- [Gaussian elimination with MPI](https://github.com/zohairhashmi/gaussian-elimination)
 
-### CONTACT
+[My first data science project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
 
----
+## Technical skills
 
-Feel free to reach out to me through the following channels:  
-**<img src="/assets/email_logo.png" alt="US Flag" width="18" height="18">** [hashmi.zohair@gmail.com](mailto:hashmi.zohair@gmail.com)  
-**<img src="/assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [linkedin.com/in/zohairhashmi](https://linkedin.com/in/zohairhashmi)
+- **Programming and analysis:** Python, SQL, C++, statistical modeling, model evaluation, and data visualization
+- **Machine learning:** Scikit-learn, XGBoost, PyTorch, TensorFlow, PyMC, and SHAP
+- **Data and ML systems:** Spark, PySpark, Databricks, Hadoop, distributed feature engineering, workflow orchestration, and CI/CD
+- **Applied AI:** LLM agents, LangChain, LangGraph, and Model Context Protocol (MCP)
+- **Cloud and reporting:** AWS, Google Cloud Platform, Grafana, and Tableau
 
+## Education
+
+**University of Illinois Chicago** <img src="/assets/us.png" alt="United States flag" width="18" height="12"> — M.S. Computer Science, May 2024<br>
+**National University of Sciences and Technology** <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12"> — B.E. Electrical Engineering, May 2019
+
+## Contact
+
+<img src="/assets/email_logo.png" alt="" width="18" height="18"> [Email me](mailto:hashmi.zohair@gmail.com) · <img src="/assets/linkedin_logo.png" alt="" width="18" height="18"> [LinkedIn](https://linkedin.com/in/zohairhashmi)
