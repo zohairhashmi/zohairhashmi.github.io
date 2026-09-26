@@ -6,6 +6,8 @@ I’m Zohair Hashmi, a Senior Data Scientist at Mastercard. I build machine lear
 
 ### Mastercard · Senior Data Scientist
 
+*Nov 2024–Present*
+
 My work focuses on the systems and analysis behind production fraud models:
 
 - **Fraud feature development.** I designed and engineered a distributed approach for generating mature feature values from historical transactions, helping modeling teams validate and deploy new signals sooner.
