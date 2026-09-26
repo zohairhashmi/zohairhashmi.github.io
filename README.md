@@ -76,8 +76,8 @@ Studied aleatoric and epistemic uncertainty in machine learning models with PyMC
 
 ## Education
 
-**University of Illinois Chicago** <img src="/assets/us.png" alt="United States flag" width="18" height="12"> — M.S. Computer Science, May 2024<br>
-**National University of Sciences and Technology** <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12"> — B.E. Electrical Engineering, May 2019
+**University of Illinois Chicago** <img src="/assets/us.png" alt="United States flag" width="18" height="12"> — M.S. Computer Science<br>
+**National University of Sciences and Technology** <img src="/assets/pk.png" alt="Pakistan flag" width="18" height="12"> — B.E. Electrical Engineering
 
 ## Contact
 
